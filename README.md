@@ -55,4 +55,4 @@ export TG_BOT_TOKEN='你的Telegram Bot Token'
 export TG_USER_ID='你的Telegram 用户ID'
 ```
 ## ⚙️温馨提醒
-<h3 style="color:red">❗温馨提示：</h3> <p><strong style="color:red">60s 早报接口建议每天只调用一次</strong>，否则可能会返回“接口格式错误”等异常。推荐每天早上定时获取，例如 <code>早上 7:30</code>。</p>
+<h3 style="color:red">❗温馨提示：</h3> <p><strong>60s 早报接口建议每天只调用一次</strong>，否则可能会返回“<span style="color:red">接口格式错误</span>”等异常。推荐每天早上定时获取，例如 <code>早上 7:30</code>。</p>
